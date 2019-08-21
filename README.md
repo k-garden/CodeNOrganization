@@ -8,8 +8,8 @@
 
 각 폴더에 대한 설명은 아래와 같습니다.
 
-- [공통 유틸리티](commonUtil): 인사 서비스에 공통적으로 사용되는
+- [공통 유틸리티](https://github.com/k-garden/CodeNOrganization/tree/master/commonUtility): 인사 서비스에 공통적으로 사용되는
 함수 모음
-- [응용서비스 유틸리티](appServiceUitl): 해당 서비스를 위한 유틸리티 모음
-- [조직 코드 관리](orgCodeMgmt): 조직 코드 관리 기능 모음
-- [인사 코드 관리](hrCodeMgmt): 인사 관리에 사용되는 코드 관리 기능
+- [응용서비스 유틸리티](https://github.com/k-garden/CodeNOrganization/tree/master/appServiceUtil): 해당 서비스를 위한 유틸리티 모음
+- [조직 코드 관리](https://github.com/k-garden/CodeNOrganization/tree/master/orgCodeMgmt): 조직 코드 관리 기능 모음
+- [인사 코드 관리](https://github.com/k-garden/CodeNOrganization/tree/master/hrCodeMgmt/person): 인사 관리에 사용되는 코드 관리 기능
